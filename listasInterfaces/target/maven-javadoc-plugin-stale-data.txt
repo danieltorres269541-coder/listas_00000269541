@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/danny/OneDrive/Documentos/NetBeansProjects/listas_00000269541/listasInterfaces/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/danny/OneDrive/Documentos/NetBeansProjects/listas_00000269541/listasInterfaces/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'listasInterfaces 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'listasInterfaces 1.0-SNAPSHOT API'
+excepciones
+interfaces
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\src\main\java = 1761425019126
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\allclasses-index.html = 1761428605647
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\allpackages-index.html = 1761428605651
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\element-list = 1761428605567
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\help-doc.html = 1761428605673
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\index-all.html = 1761428605665
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\index.html = 1761428605633
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\member-search-index.js = 1761428605657
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\module-search-index.js = 1761428605653
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\overview-summary.html = 1761428605669
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\overview-tree.html = 1761428605627
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\package-search-index.js = 1761428605655
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\search.html = 1761428605667
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\serialized-form.html = 1761428605596
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\tag-search-index.js = 1761428605658
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listasInterfaces\target\reports\apidocs\type-search-index.js = 1761428605656

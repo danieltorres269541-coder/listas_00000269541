@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/danny/.m2/repository/mx/edu/itson/listasInterfaces/1.0-SNAPSHOT/listasInterfaces-1.0-SNAPSHOT.jar;C:/Users/danny/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.jar;C:/Users/danny/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar;C:/Users/danny/.m2/repository/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.jar;C:/Users/danny/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/danny/OneDrive/Documentos/NetBeansProjects/listas_00000269541/listaArreglo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/danny/OneDrive/Documentos/NetBeansProjects/listas_00000269541/listaArreglo/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'listaArreglo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'listaArreglo 1.0-SNAPSHOT API'
+implementaciones
+C:\Users\danny\.m2\repository\mx\edu\itson\listasInterfaces\1.0-SNAPSHOT\listasInterfaces-1.0-SNAPSHOT.jar = 1761428596300
+C:\Users\danny\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar = 1761252398689
+C:\Users\danny\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar = 1761252399554
+C:\Users\danny\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar = 1761252400311
+C:\Users\danny\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar = 1761252399596
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\src\main\java = 1761428314702
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\allclasses-index.html = 1761428606780
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\allpackages-index.html = 1761428606783
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\element-list = 1761428606728
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\help-doc.html = 1761428606808
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\index-all.html = 1761428606798
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\index.html = 1761428606803
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\member-search-index.js = 1761428606787
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\module-search-index.js = 1761428606785
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\overview-tree.html = 1761428606768
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\package-search-index.js = 1761428606786
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\search.html = 1761428606801
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\tag-search-index.js = 1761428606789
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\listas_00000269541\listaArreglo\target\reports\apidocs\type-search-index.js = 1761428606787
